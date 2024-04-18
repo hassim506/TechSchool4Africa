@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(34, 34, 34, 0.641);
+    background-color: rgba(26, 20, 20, 0.833);
     box-sizing: border-box;
     padding: 0;
     padding: 0;
@@ -81,7 +81,8 @@ body{
     display: flex;
     justify-content: space-around;
     color: white;
-    padding-bottom:50px ;
+    padding-bottom:40px ;
+   margin-top: 200px;
     font-family: sans-serif;
     width: 100%;
     margin-top: 28px;
