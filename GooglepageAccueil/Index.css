@@ -1,0 +1,111 @@
+body{
+    background-color: rgba(34, 34, 34, 0.641);
+    box-sizing: border-box;
+    padding: 0;
+    padding: 0;
+}
+.container{
+    padding-bottom: 7%;
+    font-family: sans-serif;
+    .haut{
+        justify-content: space-between;
+        margin-left: 85%;
+        display: flex;
+
+        a{
+            color: white;
+            text-decoration: none;
+
+            a::hover{
+                text-decoration: underline;
+            }
+        }
+        .icon{
+            background-image: url(https://icons.getbootstrap.com/icons/grid-3x3-gap/);
+            background-repeat: no repeat;
+            padding: 20px;
+            color: white;
+        }
+    }
+
+    .milieu{
+        h1{
+            text-align: center;
+            color: white;
+            font-size: 80px;
+            font-family: Georgia,;
+        }
+        .input{
+            text-align: center;
+           
+            input{
+                border-radius: 20px;
+                width: 30%;
+                padding: 8px;
+                background: none;
+                color: white;
+                background-image: url(/TechSchool4Africa/GooglepageAccueil/search-.png);
+                background-repeat: no-repeat;
+                
+
+
+                
+            }
+        }
+    }
+    .dessous{
+        justify-content: center;
+        text-align: center;
+       
+        .a {
+            background-color: rgba(249, 243, 254, 0.096);
+            color:white;
+            padding: 10px;
+            cursor: pointer;
+            text-decoration: none;
+            border-radius: 5px;
+
+            .a::hover {
+                border: 2px solid white;
+            }
+
+           
+    }
+    p a{
+        text-decoration: none;
+        color: rgb(117, 36, 193);
+    }
+}
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    padding-bottom:50px ;
+    font-family: sans-serif;
+    width: 100%;
+    margin-top: 28px;
+  
+    
+    .foo1{
+        justify-content: space-between;
+
+       a{
+        color: white;text-decoration: none;
+        margin-right: -1%;
+        padding: 20px;
+
+       }
+       
+}
+.foo2{
+    justify-content: space-between;
+
+   a{
+    color: white;text-decoration: none;
+    padding: 50px;
+   
+
+   }
+}
+}
